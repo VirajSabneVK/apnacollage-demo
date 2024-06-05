@@ -1,4 +1,4 @@
 # apnacollage-demo
-<h1> is my first git repository<h1>
+ is my first git repository
 <br>
 Author - Viraj Sabne
